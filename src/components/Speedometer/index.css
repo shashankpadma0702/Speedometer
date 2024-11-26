@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-color: black;
+  background-size: cover;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.img {
+  height: 550px;
+  width: 750px;
+}
+.heading {
+  color: white;
+  height: 50px;
+}
+
+.btn1 {
+  background-color: #0b69ff;
+  height: 50px;
+  width: 120px;
+  color: white;
+  border-radius: 8px;
+}
+.btn2 {
+  background-color: transparent;
+  height: 50px;
+  width: 120px;
+  color: white;
+  border-radius: 8px;
+  border-color: white;
+}
+.heading2{
+  color: white;
+}
+.para {
+  color: white;
+}
